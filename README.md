@@ -1,15 +1,12 @@
 "MERN Stack Transaction Dashboard"
 
+The Transaction Dashboard is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It fetches transaction data from a third-party API and provides a powerful, interactive dashboard that allows users to analyze transactions for any selected month with rich features like search, pagination, visual statistics, bar charts, and pie charts.
+
 ![Screenshot 2025-07-04 140537](https://github.com/user-attachments/assets/bf8ba6a1-a615-4be2-bb7a-b809fd4b6f04)
 ![Screenshot 2025-07-04 140609](https://github.com/user-attachments/assets/72f18154-3c18-4af7-a511-702d493ef9c6)
 ![Screenshot 2025-07-04 140644](https://github.com/user-attachments/assets/a28289c0-207a-4720-8b16-b4078ae231f7)
 ![Screenshot 2025-07-04 140716](https://github.com/user-attachments/assets/84185a63-d783-44ac-8532-14a337d4513c)
 ![Screenshot 2025-07-04 140734](https://github.com/user-attachments/assets/f9117f4f-aa59-411a-9ca3-c69f451ac884)
-
-
-📋 Description
-
-The Transaction Dashboard is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It fetches transaction data from a third-party API and provides a powerful, interactive dashboard that allows users to analyze transactions for any selected month with rich features like search, pagination, visual statistics, bar charts, and pie charts.
 
 
 🚀 Key Features
